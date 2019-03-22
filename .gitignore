@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# personal settings
+**results
+**weights
+**checkpoints
+**backup
+**MSTest
+**MSTrain
+**analysis
